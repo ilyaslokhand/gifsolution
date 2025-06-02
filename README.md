@@ -8,7 +8,7 @@ This is a modern, fully responsive contact form built using **React** and **Tail
 
 - **Frontend:** React
 - **Styling:** Tailwind CSS
-- **Animations:** [react-bits](https://www.npmjs.com/package/react-bits)
+- **Animations:** [react-bits](https://www.reactbits.dev/)
 - **UI Components:** [shadcn/ui](https://ui.shadcn.com/)
 - **Forms:** [react-hook-form](https://react-hook-form.com/)
 - **Icons:** [Font Awesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome) via `react-icons/fa`
